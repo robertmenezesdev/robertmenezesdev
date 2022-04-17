@@ -1,4 +1,4 @@
-### Bah tche! Me chamo Robert e seja bem-vindo ao meu Perfil 🥳
+### Olá! Eu sou o Robert, estudande de ADS e trabalho como Suporte Técnico.
 
 ##
 
