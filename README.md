@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Robert, estudande de ADS e trabalho como Suporte Técnico.
-🔭 I'm working with support.
-🌱 Studying Javascript, MySQL
-😄 Pronouns: ele/dele
-🎸 Hobbies: program, play on the computer
+🔭 I'm working with support.<br>
+🌱 Studying Javascript, MySQL<br>
+😄 Pronouns: ele/dele<br>
+🎸 Hobbies: program, play on the computer<br>
 💻 Favorite Language: JavaScript
 
 <div align="center">
   <a href="https://github.com/robertmenezesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertmenezesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmenezesdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertmenezesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmenezesdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
