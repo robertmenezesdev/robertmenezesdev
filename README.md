@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Robert, atualmente Graduando em ADS e Pós-Graduando em Banco de Dados.
 🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Javascript, NodeJSe e SQL(PG, MySQL)<br>
-😄 Pronouns: ele/dele<br>
+🌱 Estudando Javascript, Node.JS e SQL(PG, MySQL)<br>
+😄 Pronomes: ele/dele<br>
 🎸 Hobbies: estudar e umas plays de jogos aleatorios <br>
 💻 Linguagem Favorita: JavaScript
 
