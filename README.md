@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Robert, atualmente Graduando em ADS e Pós-Graduando em Banco de Dados.
-🔭 I'm working with support.<br>
-🌱 Studying Javascript, MySQL<br>
+🔭 Trabalho atualmente com Suporte de T.I.<br>
+🌱 Estudando Javascript, NodeJSe e SQL(PG, MySQL)<br>
 😄 Pronouns: ele/dele<br>
-🎸 Hobbies: program, play on the computer<br>
-💻 Favorite Language: JavaScript
+🎸 Hobbies: estudar e umas plays de jogos aleatorios <br>
+💻 Linguagem Favorita: JavaScript
 
 <div align="center">
   <a href="https://github.com/robertmenezesdev">
