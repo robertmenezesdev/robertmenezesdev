@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Robert, estudande de ADS e trabalho como Suporte Técnico.
-
-##
+🔭 I'm working with support.
+🌱 Studying Javascript, MySQL
+😄 Pronouns: ele/dele
+🎸 Hobbies: program, play on the computer
+💻 Favorite Language: JavaScript
 
 <div align="center">
   <a href="https://github.com/robertmenezesdev">
