@@ -1,4 +1,4 @@
-### Olá! Eu sou o Robert, estudande de ADS e trabalho como Suporte Técnico.
+### Olá! Eu sou o Robert, atualmente Graduando em ADS e Pós-Graduando em Banco de Dados.
 🔭 I'm working with support.<br>
 🌱 Studying Javascript, MySQL<br>
 😄 Pronouns: ele/dele<br>
