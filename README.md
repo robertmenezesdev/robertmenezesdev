@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Robert, atualmente Graduando em ADS e Pós-Graduando em Banco de Dados.
 🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Javascript e SQL (MySQL)<br>
+🌱 Estudando Linux, Javascript e SQL (MySQL)<br>
 😄 Pronomes: ele/dele<br>
-🎸 Hobbies: estudar e umas plays de jogos aleatorios <br>
-💻 Linguagem Favorita: JavaScript
-
+🎸 Hobbies: estudar e jogar um CS <3 <br>
+💻 Linguagem Favorita: JavaScript *estou estudando, porém já tenho uma admiração* 
 <div align="center">
   <a href="https://github.com/robertmenezesdev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertmenezesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
