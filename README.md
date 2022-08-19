@@ -1,4 +1,6 @@
-### Olá! Eu sou o Robert, atualmente Graduando em ADS e Pós-Graduando em Banco de Dados.
+### Olá! Eu sou o Robert! :raising_hand_man:
+:man_student: Graduado em Analise e Desenvolvimento de Sistemas <br>
+:books: Pós-Graduando em Banco de Dados<br>
 🔭 Trabalho atualmente com Suporte de T.I.<br>
 🌱 Estudando Linux, Javascript e SQL (MySQL)<br>
 😄 Pronomes: ele/dele<br>
