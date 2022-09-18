@@ -4,8 +4,8 @@
 🔭 Trabalho atualmente com Suporte de T.I.<br>
 🌱 Estudando Atualmente: Linux (fundamentos) e programação BASH.<br>
 😄 Pronomes: ele/dele<br>
-🎸 Hobbies: Aprender
-💻 Linguagem Favorita: ...
+🎸 Hobbies: Aprender<br>
+💻 Linguagem Favorita: SQL
 
 <div align="center">
   <a href="https://github.com/robertmenezesdev">
