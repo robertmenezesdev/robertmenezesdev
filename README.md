@@ -2,7 +2,7 @@
 :man_student: Graduado em Analise e Desenvolvimento de Sistemas <br>
 :books: Pós-Graduando em Banco de Dados<br>
 🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Bash, MySQL
+🌱 Estudando Bash, MySQL <br>
 😄 Pronomes: ele/dele<br>
 🎸 Hobbies: estudar e jogar um CS <3 <br>
 💻 Linguagem Favorita: JavaScript *estou estudando, porém já tenho uma admiração* 
