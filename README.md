@@ -2,7 +2,7 @@
 :man_student: Graduado em Analise e Desenvolvimento de Sistemas <br>
 :books: Pós-Graduando em Banco de Dados<br>
 🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Linux, Javascript e SQL (MySQL)<br>
+🌱 Estudando Bash, MySQL
 😄 Pronomes: ele/dele<br>
 🎸 Hobbies: estudar e jogar um CS <3 <br>
 💻 Linguagem Favorita: JavaScript *estou estudando, porém já tenho uma admiração* 
@@ -17,7 +17,6 @@
   <img align="center" alt="rms-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mica-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mica-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mica-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
