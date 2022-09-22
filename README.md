@@ -2,7 +2,7 @@
 :man_student: Graduado em Analise e Desenvolvimento de Sistemas <br>
 :books: Pós-Graduando em Banco de Dados<br>
 🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Atualmente: Linux (fundamentos) e programação BASH.<br>
+🌱 Estudando Atualmente: Python e SQL.<br>
 😄 Pronomes: ele/dele<br>
 🎸 Hobbies: Aprender<br>
 💻 Linguagem Favorita: SQL
