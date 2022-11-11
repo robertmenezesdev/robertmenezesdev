@@ -1,26 +1,12 @@
-### Olá! Eu sou o Robert! :raising_hand_man:
-:man_student: Graduado em Analise e Desenvolvimento de Sistemas <br>
-:books: Pós-Graduando em Banco de Dados<br>
-🔭 Trabalho atualmente com Suporte de T.I.<br>
-🌱 Estudando Atualmente: Python e SQL.<br>
-🎸 Hobbies: Aprender<br>
-💻 Linguagem Favorita: SQL
 
-<div align="center">
-  <a href="https://github.com/robertmenezesdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robertmenezesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmenezesdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=robertmenezesdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=robertmenezesdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertmenezesdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div style="display: inline_block"><br>
-<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Linux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=robertmenezesdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  
-<div> 
-  <a href = "mailto:rms.pessoal10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robertmenezesti/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
