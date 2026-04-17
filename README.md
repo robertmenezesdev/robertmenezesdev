@@ -1,7 +1,7 @@
 
 ## 🤟 Eae, blz? eu sou o Robert e seja muito bem-vindo(a) ao meu perfil do GitHub 👻
 
-Sou um jovem Gaúcho de 23 anos, apaixonado pela tecnologia, já estou neste vasto mundo há alguns anos, já trabalhei com suporte técnico, suporte de sistemas e hoje me encontro na área de Data Analytics, trabalhando como Analista de Desenvolvimento Jr.
+Sou um jovem Gaúcho de 25 anos, apaixonado pela tecnologia, já estou neste vasto mundo há alguns anos, já trabalhei com suporte técnico, suporte de sistemas e hoje me encontro na área de Data Analytics, trabalhando como Analista de Desenvolvimento Jr.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Robert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
